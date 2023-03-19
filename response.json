@@ -1,0 +1,392 @@
+[
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 13,
+            "api_path": "/songs/2396871",
+            "artist_names": "Alan Walker",
+            "featured_artists": [Array
+            ],
+            "full_title": "Faded by Alan Walker",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 2396871,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 93685,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1648231336,
+            "path": "/Alan-walker-faded-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 118,
+            "relationships_index_url": "https://genius.com/Alan-walker-faded-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "December 3, 2015",
+            "release_date_with_abbreviated_month_for_display": "Dec. 3, 2015",
+            "song_art_image_thumbnail_url": "https://images.genius.com/708aef5551c9f670205b5cab3f38c8bd.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/708aef5551c9f670205b5cab3f38c8bd.1000x1000x1.jpg",
+            "stats": [Object
+            ],
+            "title": "Faded",
+            "title_with_featured": "Faded",
+            "updated_by_human_at": 1668291010,
+            "url": "https://genius.com/Alan-walker-faded-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 2,
+            "api_path": "/songs/3801089",
+            "artist_names": "Alan Walker (Ft. Au/Ra & Tomine Harket)",
+            "featured_artists": [Array
+            ],
+            "full_title": "Darkside by Alan Walker (Ft. Au/Ra & Tomine Harket)",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 3801089,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 6355938,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1665953717,
+            "path": "/Alan-walker-darkside-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 47,
+            "relationships_index_url": "https://genius.com/Alan-walker-darkside-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "July 27, 2018",
+            "release_date_with_abbreviated_month_for_display": "Jul. 27, 2018",
+            "song_art_image_thumbnail_url": "https://images.genius.com/bbfa8575eaff89e5e2c93c8a0095fab9.300x300x1.png",
+            "song_art_image_url": "https://images.genius.com/bbfa8575eaff89e5e2c93c8a0095fab9.1000x1000x1.png",
+            "stats": [Object
+            ],
+            "title": "Darkside",
+            "title_with_featured": "Darkside (Ft. Au/Ra & Tomine Harket)",
+            "updated_by_human_at": 1665953717,
+            "url": "https://genius.com/Alan-walker-darkside-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 5,
+            "api_path": "/songs/3714282",
+            "artist_names": "Alan Walker (Ft. Sophia Somajo)",
+            "featured_artists": [Array
+            ],
+            "full_title": "Diamond Heart by Alan Walker (Ft. Sophia Somajo)",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 3714282,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 6355938,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1665260326,
+            "path": "/Alan-walker-diamond-heart-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 37,
+            "relationships_index_url": "https://genius.com/Alan-walker-diamond-heart-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "September 28, 2018",
+            "release_date_with_abbreviated_month_for_display": "Sep. 28, 2018",
+            "song_art_image_thumbnail_url": "https://images.genius.com/c0d2b31b18186ca1898e0622f44a3b0d.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/c0d2b31b18186ca1898e0622f44a3b0d.1000x1000x1.jpg",
+            "stats": [Object
+            ],
+            "title": "Diamond Heart",
+            "title_with_featured": "Diamond Heart (Ft. Sophia Somajo)",
+            "updated_by_human_at": 1665260326,
+            "url": "https://genius.com/Alan-walker-diamond-heart-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 1,
+            "api_path": "/songs/5123075",
+            "artist_names": "Alan Walker & Ava Max",
+            "featured_artists": [Array
+            ],
+            "full_title": "Alone, Pt. II by Alan Walker & Ava Max",
+            "header_image_thumbnail_url": "https://images.genius.com/0b14a916f0d132ea696b587ecd5c8dea.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/0b14a916f0d132ea696b587ecd5c8dea.1000x1000x1.jpg",
+            "id": 5123075,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 8059868,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1652728556,
+            "path": "/Alan-walker-and-ava-max-alone-pt-ii-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 33,
+            "relationships_index_url": "https://genius.com/Alan-walker-and-ava-max-alone-pt-ii-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "December 27, 2019",
+            "release_date_with_abbreviated_month_for_display": "Dec. 27, 2019",
+            "song_art_image_thumbnail_url": "https://images.genius.com/9fa97a64e5bebfbf9d692b7b82bbed90.300x300x1.png",
+            "song_art_image_url": "https://images.genius.com/9fa97a64e5bebfbf9d692b7b82bbed90.1000x1000x1.png",
+            "stats": [Object
+            ],
+            "title": "Alone, Pt. II",
+            "title_with_featured": "Alone, Pt. II",
+            "updated_by_human_at": 1652720366,
+            "url": "https://genius.com/Alan-walker-and-ava-max-alone-pt-ii-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 1,
+            "api_path": "/songs/3234393",
+            "artist_names": "Alan Walker, Digital Farm Animals, Noah Cyrus & Juliander",
+            "featured_artists": [Array
+            ],
+            "full_title": "All Falls Down by Alan Walker, Digital Farm Animals, Noah Cyrus & Juliander",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 3234393,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 93685,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1601012369,
+            "path": "/Alan-walker-digital-farm-animals-noah-cyrus-and-juliander-all-falls-down-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 39,
+            "relationships_index_url": "https://genius.com/Alan-walker-digital-farm-animals-noah-cyrus-and-juliander-all-falls-down-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "October 27, 2017",
+            "release_date_with_abbreviated_month_for_display": "Oct. 27, 2017",
+            "song_art_image_thumbnail_url": "https://images.genius.com/dc1c965917b3b1cb820008cfc217ae9e.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/dc1c965917b3b1cb820008cfc217ae9e.1000x1000x1.jpg",
+            "stats": [Object
+            ],
+            "title": "All Falls Down",
+            "title_with_featured": "All Falls Down",
+            "updated_by_human_at": 1609878489,
+            "url": "https://genius.com/Alan-walker-digital-farm-animals-noah-cyrus-and-juliander-all-falls-down-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 3,
+            "api_path": "/songs/4395068",
+            "artist_names": "Alan Walker, Sabrina Carpenter & Farruko",
+            "featured_artists": [Array
+            ],
+            "full_title": "On My Way by Alan Walker, Sabrina Carpenter & Farruko",
+            "header_image_thumbnail_url": "https://images.genius.com/0b14a916f0d132ea696b587ecd5c8dea.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/0b14a916f0d132ea696b587ecd5c8dea.1000x1000x1.jpg",
+            "id": 4395068,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 5667167,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1611267605,
+            "path": "/Alan-walker-sabrina-carpenter-and-farruko-on-my-way-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 60,
+            "relationships_index_url": "https://genius.com/Alan-walker-sabrina-carpenter-and-farruko-on-my-way-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "March 21, 2019",
+            "release_date_with_abbreviated_month_for_display": "Mar. 21, 2019",
+            "song_art_image_thumbnail_url": "https://images.genius.com/ad957509e73769340113146e3d74f4f7.300x300x1.png",
+            "song_art_image_url": "https://images.genius.com/ad957509e73769340113146e3d74f4f7.1000x1000x1.png",
+            "stats": [Object
+            ],
+            "title": "On My Way",
+            "title_with_featured": "On My Way",
+            "updated_by_human_at": 1646242626,
+            "url": "https://genius.com/Alan-walker-sabrina-carpenter-and-farruko-on-my-way-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 1,
+            "api_path": "/songs/2917386",
+            "artist_names": "Alan Walker",
+            "featured_artists": [Array
+            ],
+            "full_title": "Alone by Alan Walker",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 2917386,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 3768782,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1664011912,
+            "path": "/Alan-walker-alone-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 40,
+            "relationships_index_url": "https://genius.com/Alan-walker-alone-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "December 2, 2016",
+            "release_date_with_abbreviated_month_for_display": "Dec. 2, 2016",
+            "song_art_image_thumbnail_url": "https://images.genius.com/7055783b516c9db919098cd119ab714e.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/7055783b516c9db919098cd119ab714e.1000x1000x1.jpg",
+            "stats": [Object
+            ],
+            "title": "Alone",
+            "title_with_featured": "Alone",
+            "updated_by_human_at": 1664011912,
+            "url": "https://genius.com/Alan-walker-alone-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 1,
+            "api_path": "/songs/3089240",
+            "artist_names": "Alan Walker (Ft. Gavin James)",
+            "featured_artists": [Array
+            ],
+            "full_title": "Tired by Alan Walker (Ft. Gavin James)",
+            "header_image_thumbnail_url": "https://images.genius.com/4dcbbcb94dcf4af84c1071e35973255a.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/4dcbbcb94dcf4af84c1071e35973255a.640x640x1.jpg",
+            "id": 3089240,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 126836,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1657300524,
+            "path": "/Alan-walker-tired-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 25,
+            "relationships_index_url": "https://genius.com/Alan-walker-tired-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "May 19, 2017",
+            "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+            "song_art_image_thumbnail_url": "https://images.genius.com/4dcbbcb94dcf4af84c1071e35973255a.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/4dcbbcb94dcf4af84c1071e35973255a.640x640x1.jpg",
+            "stats": [Object
+            ],
+            "title": "Tired",
+            "title_with_featured": "Tired (Ft. Gavin James)",
+            "updated_by_human_at": 1657293239,
+            "url": "https://genius.com/Alan-walker-tired-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 3,
+            "api_path": "/songs/7432868",
+            "artist_names": "​salem ilese, TOMORROW X TOGETHER & Alan Walker",
+            "featured_artists": [Array
+            ],
+            "full_title": "PS5 by ​salem ilese, TOMORROW X TOGETHER & Alan Walker",
+            "header_image_thumbnail_url": "https://images.genius.com/791f4e51e8a23d5c0c91d25c2f4cdd26.300x300x1.png",
+            "header_image_url": "https://images.genius.com/791f4e51e8a23d5c0c91d25c2f4cdd26.1000x1000x1.png",
+            "id": 7432868,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 7748793,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1663082433,
+            "path": "/Salem-ilese-tomorrow-x-together-and-alan-walker-ps5-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 12,
+            "relationships_index_url": "https://genius.com/Salem-ilese-tomorrow-x-together-and-alan-walker-ps5-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "February 23, 2022",
+            "release_date_with_abbreviated_month_for_display": "Feb. 23, 2022",
+            "song_art_image_thumbnail_url": "https://images.genius.com/791f4e51e8a23d5c0c91d25c2f4cdd26.300x300x1.png",
+            "song_art_image_url": "https://images.genius.com/791f4e51e8a23d5c0c91d25c2f4cdd26.1000x1000x1.png",
+            "stats": [Object
+            ],
+            "title": "PS5",
+            "title_with_featured": "PS5",
+            "updated_by_human_at": 1663071333,
+            "url": "https://genius.com/Salem-ilese-tomorrow-x-together-and-alan-walker-ps5-lyrics"
+        },
+        "type": "song"
+    },
+    {
+        "highlights": [],
+        "index": "song",
+        "result": {
+            "_type": "song",
+            "annotation_count": 6,
+            "api_path": "/songs/2486419",
+            "artist_names": "Alan Walker",
+            "featured_artists": [Array
+            ],
+            "full_title": "Sing Me to Sleep by Alan Walker",
+            "header_image_thumbnail_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.300x300x1.jpg",
+            "header_image_url": "https://images.genius.com/10db94c5c11e1bb1ac9cc917a6c59250.1000x1000x1.jpg",
+            "id": 2486419,
+            "instrumental": false,
+            "language": "en",
+            "lyrics_owner_id": 104344,
+            "lyrics_state": "complete",
+            "lyrics_updated_at": 1628044059,
+            "path": "/Alan-walker-sing-me-to-sleep-lyrics",
+            "primary_artist": [Object
+            ],
+            "pyongs_count": 28,
+            "relationships_index_url": "https://genius.com/Alan-walker-sing-me-to-sleep-sample",
+            "release_date_components": [Object
+            ],
+            "release_date_for_display": "June 2, 2016",
+            "release_date_with_abbreviated_month_for_display": "Jun. 2, 2016",
+            "song_art_image_thumbnail_url": "https://images.genius.com/82006c454b4bb897f02c1a66e2d3f2df.300x300x1.jpg",
+            "song_art_image_url": "https://images.genius.com/82006c454b4bb897f02c1a66e2d3f2df.300x300x1.jpg",
+            "stats": [Object
+            ],
+            "title": "Sing Me to Sleep",
+            "title_with_featured": "Sing Me to Sleep",
+            "updated_by_human_at": 1628044059,
+            "url": "https://genius.com/Alan-walker-sing-me-to-sleep-lyrics"
+        },
+        "type": "song"
+    }
+]

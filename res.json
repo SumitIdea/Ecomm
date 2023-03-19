@@ -1,0 +1,9 @@
+            [
+                {"brand": "Apple", "count": 1, "img": "https://i.dummyjson.com/data/products/1/1.jpg", "price": 549},
+                 {"brand": "Apple", "count": 1, "img": "https://i.dummyjson.com/data/products/1/1.jpg", "price": 549}, 
+                 {"brand": "Fair & Clear", "count": 1, "img": "https://i.dummyjson.com/data/products/20/1.jpg", "price": 70}, 
+                 {"brand": "ROREC White Rice", "count": 1, "img": "https://i.dummyjson.com/data/products/19/1.jpg", "price": 46},
+                  {"brand": "Saaf & Khaas", "count": 1, "img": "https://i.dummyjson.com/data/products/21/1.png", "price": 20},
+                   {"brand": "Saaf & Khaas", "count": 1, "img": "https://i.dummyjson.com/data/products/21/1.png", "price": 20},
+                    {"brand": "Huawei", "count": 1, "img": "https://i.dummyjson.com/data/products/5/1.jpg", "price": 499}
+                ]
